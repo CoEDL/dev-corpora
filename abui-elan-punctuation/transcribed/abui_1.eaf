@@ -18,14 +18,14 @@
     <TIER LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="SL" TIER_ID="Phrase">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts7">
-                <ANNOTATION_VALUE>ama!@ka$%ang d%i k&aai *hada muila</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ama!@ka$%ang d%i kaai *hada muila</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
     <TIER LINGUISTIC_TYPE_REF="transcription" TIER_ID="transcription@speaker1">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts5">
-                <ANNOTATION_VALUE>ama%&^kaa*()ng di kaai</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ama%^kaa*()ng di kaai</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
@@ -39,7 +39,7 @@
     <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="phrase">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts8">
-                <ANNOTATION_VALUE>mem#*)(em!#@^%&ememememe</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>mem#*)(em!#@^%ememememe</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
